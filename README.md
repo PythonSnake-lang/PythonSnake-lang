@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PythonSnake-lang
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning school 💀
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me : respond to this or do a pull req saying whatever
 
